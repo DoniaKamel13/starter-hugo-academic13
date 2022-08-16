@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-> *An Egyptian (as you can obviously see) economist in the making*
+*An Egyptian (as you can obviously see) economist in the making*
 
 I'm a first year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) supervised by [Hillel Rapoport](https://www.parisschoolofeconomics.eu/en/rapoport-hillel/)
 
