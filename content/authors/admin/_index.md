@@ -1,7 +1,7 @@
 ---
 title: Donia Kamel
 role: PhD Candidate in Economics
-avatar_filename: pic1.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
