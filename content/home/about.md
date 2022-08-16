@@ -9,5 +9,5 @@ author: admin
 design:
   background:
     image: 2729114_395683-pco9wq-72.jpg
-    image_darken: 0.2
+    image_darken: 0.1
 ---
