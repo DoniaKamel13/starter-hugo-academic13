@@ -6,7 +6,7 @@ widget_id: "Home "
 headless: true
 weight: 20
 title: "Ahlan, I'm Donia! "
-subtitle: An Egyptian (as you can obviously see) economist in the making
+subtitle: ""
 design:
   background:
     image: picture3.jpg
