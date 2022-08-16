@@ -34,8 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-*An Egyptian (as you can obviously see the pyramid in the background) economist in the making :)* 
-
 I'm a first year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) supervised by [Hillel Rapoport](https://www.parisschoolofeconomics.eu/en/rapoport-hillel/)
 
 I will be a visiting scholar at the [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/) in September 2022 
