@@ -1,77 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+title: Donia Kamel
+role: PhD Candidate in Economics
+avatar_filename: pic1.jpg
+bio: ""
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#doniasameh3@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/Donia_Kamel_
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/DoniaKamel13
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/donia-kamel
+organizations:
+  - name: "Paris School of Economics "
+    url: https://www.parisschoolofeconomics.eu/en/
+  - name: Université Paris 1 Panthéon-Sorbonne
+    url: https://www.pantheonsorbonne.fr/
+  - name: "Harvard Growth Lab "
+    url: https://growthlab.cid.harvard.edu/
+  - name: Institut Convergences Migrations
+    url: https://www.icmigrations.cnrs.fr/
+  - name: "Sciences Po, PSIA "
+    url: https://www.sciencespo.fr/psia/index.html
+education:
+  courses: []
+email: ""
+superuser: true
 highlight_name: true
 ---
+Ahlan, I'm Donia! 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+*An Egyptian (as you can obviously see the pyramid in the background) economist in the making :)* 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a first year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) supervised by [Hillel Rapoport](https://www.parisschoolofeconomics.eu/en/rapoport-hillel/)
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I will be a visiting scholar at the [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/) in September 2022 
+
+I will also be a visiting scholar at [Harvard Growth Lab](https://growthlab.cid.harvard.edu/), supervised by [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann) from January 2023
+
+I am also a Fellow at [SoBigData](https://twitter.com/SoBigData?s=20&t=VSjCxLBBUCUYwzJUS-OZEw) and [Institut Convergences Migrations](https://twitter.com/ICMigrations?s=20&t=VSjCxLBBUCUYwzJUS-OZEw), and a Teaching Assistant at [Sciences Po, Paris School of International Affairs](https://www.sciencespo.fr/psia/index.html) and 
+
+I am interested in utilising novel and big data to answer unanswered migration questions, particularly relating to the role of networks, brain drain, the intention to migrate, integration and assimilation of immigrants and refugees and attitudes towards immigrants
+
+Research Fields: Migration, Political Economy, Labour and Public Economics
