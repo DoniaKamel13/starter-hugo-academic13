@@ -9,6 +9,6 @@ title: "Ahlan, I'm Donia! "
 subtitle: An Egyptian (as you can obviously see) economist in the making
 design:
   background:
-    image: ""
+    image: picture1.jpg
     image_darken: ""
 ---
