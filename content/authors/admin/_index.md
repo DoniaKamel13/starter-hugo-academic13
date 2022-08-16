@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#doniasameh3@gmail.com
+    link: /doniasameh3@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Donia_Kamel_
