@@ -10,5 +10,5 @@ subtitle: An Egyptian (as you can obviously see) economist in the making
 design:
   background:
     image: ""
-    image_darken: 1
+    image_darken: ""
 ---
