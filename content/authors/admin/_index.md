@@ -22,12 +22,12 @@ organizations:
     url: https://www.parisschoolofeconomics.eu/en/
   - name: Université Paris 1 Panthéon-Sorbonne
     url: https://www.pantheonsorbonne.fr/
-  - name: "Harvard Growth Lab "
-    url: https://growthlab.cid.harvard.edu/
   - name: Institut Convergences Migrations
     url: https://www.icmigrations.cnrs.fr/
   - name: "Sciences Po, PSIA "
     url: https://www.sciencespo.fr/psia/index.html
+  - name: "Harvard Growth Lab "
+    url: https://growthlab.cid.harvard.edu/
 education:
   courses: []
 email: ""
