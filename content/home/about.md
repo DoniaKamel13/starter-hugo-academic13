@@ -1,6 +1,6 @@
 ---
 widget: about
-active: true
+active: false
 author: admin
 widget_id: "Home "
 headless: true
@@ -9,6 +9,6 @@ title: "Ahlan, I'm Donia! "
 subtitle: An Egyptian (as you can obviously see) economist in the making
 design:
   background:
-    image: picture2.jpg
+    image: picture3.jpg
     image_darken: ""
 ---
