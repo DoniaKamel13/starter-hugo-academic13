@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-*An Egyptian (as you can obviously see) economist in the making*
+*An Egyptian economist in the making*
 
 I'm a first year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) supervised by [Hillel Rapoport](https://www.parisschoolofeconomics.eu/en/rapoport-hillel/)
 
@@ -42,7 +42,7 @@ I will be a visiting scholar at the [Swedish Institute for Social Research](http
 
 I will also be a visiting scholar at [Harvard Growth Lab](https://growthlab.cid.harvard.edu/), supervised by [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann) from January 2023
 
-I am also a Fellow at [SoBigData](https://twitter.com/SoBigData?s=20&t=VSjCxLBBUCUYwzJUS-OZEw) and [Institut Convergences Migrations](https://twitter.com/ICMigrations?s=20&t=VSjCxLBBUCUYwzJUS-OZEw), and a Teaching Assistant at [Sciences Po, Paris School of International Affairs](https://www.sciencespo.fr/psia/index.html)
+I am also a Fellow at [SoBigData](https://twitter.com/SoBigData?s=20&t=VSjCxLBBUCUYwzJUS-OZEw)﻿ [Institut Convergences Migrations](https://twitter.com/ICMigrations?s=20&t=VSjCxLBBUCUYwzJUS-OZEw), [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/) and a Teaching Assistant at [Sciences Po, Paris School of International Affairs](https://www.sciencespo.fr/psia/index.html)
 
 I am interested in utilising novel and big data to answer unanswered migration questions, particularly relating to the role of networks, brain drain, the intention to migrate, integration and assimilation of immigrants and refugees and attitudes towards immigrants
 
