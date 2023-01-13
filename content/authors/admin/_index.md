@@ -38,12 +38,12 @@ highlight_name: true
 
 I'm a first year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) supervised by [Hillel Rapoport](https://www.parisschoolofeconomics.eu/en/rapoport-hillel/)
 
-I will be a visiting scholar at the [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/) in September 2022 
+I am currently a visiting scholar at [Harvard Growth Lab](https://growthlab.cid.harvard.edu/), supervised by [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann) from January 2023
 
-I will also be a visiting scholar at [Harvard Growth Lab](https://growthlab.cid.harvard.edu/), supervised by [Ricardo Hausmann](https://www.hks.harvard.edu/faculty/ricardo-hausmann) from January 2023
+I was also a visiting PhD student at [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/) in September 2022 and at UCLouvain in May 2022 
 
 I am also a Fellow at [SoBigData](https://twitter.com/SoBigData?s=20&t=VSjCxLBBUCUYwzJUS-OZEw)﻿ [Institut Convergences Migrations](https://twitter.com/ICMigrations?s=20&t=VSjCxLBBUCUYwzJUS-OZEw), [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/) and a Teaching Assistant at [Sciences Po, Paris School of International Affairs](https://www.sciencespo.fr/psia/index.html)
 
-I am interested in utilising novel and big data to answer unanswered migration questions, particularly relating to the role of networks, brain drain, the intention to migrate, integration and assimilation of immigrants and refugees and attitudes towards immigrants
+I am interested in utilising novel and big data to answer unanswered migration related questions. My research ranges from the role of networks in migration of academic, cultural transmission to second generation migrants in Sweden, and skin-tone discrimination in football. 
 
-Research Fields: Migration, Political Economy, Labour and Public Economics
+Research Fields: Migration, Historical Economics, Cultural Economics, Political Economy, and Labour and Public Economics
