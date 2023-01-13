@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slides: example
 url_pdf: ""
 summary: "**Updated paper to be posted soon!**"
